@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FormsApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FormsApp.nw3g2hopv3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\08b78c2d-7106-45d3-8357-89ab1044f31f.jpg",
+      "PackagePath": "staticwebassets\\img\\08b78c2d-7106-45d3-8357-89ab1044f31f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\0c1ced6a-f2cc-4394-989d-26981918f46d.jpg",
+      "PackagePath": "staticwebassets\\img\\0c1ced6a-f2cc-4394-989d-26981918f46d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\1721915b-b33a-4279-a41f-27b1e9b319a5.jpg",
+      "PackagePath": "staticwebassets\\img\\1721915b-b33a-4279-a41f-27b1e9b319a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\2a388135-207d-44f5-a6a7-196713fe14fd.jpg",
+      "PackagePath": "staticwebassets\\img\\2a388135-207d-44f5-a6a7-196713fe14fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\37921e30-b835-42c3-a137-88dd1948e7dc.jpg",
+      "PackagePath": "staticwebassets\\img\\37921e30-b835-42c3-a137-88dd1948e7dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\3d14d547-a387-4251-82f7-54cfe1af305c.jpg",
+      "PackagePath": "staticwebassets\\img\\3d14d547-a387-4251-82f7-54cfe1af305c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\4556c3f6-1018-419c-9ed6-85c8d3339b80.jpg",
+      "PackagePath": "staticwebassets\\img\\4556c3f6-1018-419c-9ed6-85c8d3339b80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\49c65f80-65b4-418b-8165-f084e41ccd1d.jpg",
+      "PackagePath": "staticwebassets\\img\\49c65f80-65b4-418b-8165-f084e41ccd1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\524bdaca-ca60-4c78-a017-fed2f56684eb.jpg",
+      "PackagePath": "staticwebassets\\img\\524bdaca-ca60-4c78-a017-fed2f56684eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\5675fcf4-4ad1-4c2d-9a7a-921a3dd787be.jpg",
+      "PackagePath": "staticwebassets\\img\\5675fcf4-4ad1-4c2d-9a7a-921a3dd787be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\5caf3051-a249-4012-9373-ab43d2d89829.jpg",
+      "PackagePath": "staticwebassets\\img\\5caf3051-a249-4012-9373-ab43d2d89829.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\61e31599-f242-414a-9261-3ed1f55897e1.jpg",
+      "PackagePath": "staticwebassets\\img\\61e31599-f242-414a-9261-3ed1f55897e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\809b6a81-8ea8-42a1-a708-cf9b03089a62.jpg",
+      "PackagePath": "staticwebassets\\img\\809b6a81-8ea8-42a1-a708-cf9b03089a62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\88cf8d3a-4c30-4971-a41d-81b5a8a5852c.jpg",
+      "PackagePath": "staticwebassets\\img\\88cf8d3a-4c30-4971-a41d-81b5a8a5852c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\96770d3e-0772-487c-86ec-5782c2420f08.jpg",
+      "PackagePath": "staticwebassets\\img\\96770d3e-0772-487c-86ec-5782c2420f08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\b902f34c-82de-48d7-9fcf-d6073e8730be.pdf",
+      "PackagePath": "staticwebassets\\img\\b902f34c-82de-48d7-9fcf-d6073e8730be.pdf"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\bd836a0c-1ced-45c6-b8af-b9b44a577b4b.jpg",
+      "PackagePath": "staticwebassets\\img\\bd836a0c-1ced-45c6-b8af-b9b44a577b4b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\e2d4abaa-2404-40de-97db-15abe9efd1a3.jpg",
+      "PackagePath": "staticwebassets\\img\\e2d4abaa-2404-40de-97db-15abe9efd1a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\ef3886e4-e1ec-4282-8bc4-ed1dfa614fb1.jpg",
+      "PackagePath": "staticwebassets\\img\\ef3886e4-e1ec-4282-8bc4-ed1dfa614fb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\fb91a0c6-e3d3-429c-a1c9-964ccce4b80c.jpg",
+      "PackagePath": "staticwebassets\\img\\fb91a0c6-e3d3-429c-a1c9-964ccce4b80c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\m14.jpg",
+      "PackagePath": "staticwebassets\\img\\m14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\img\\m16.jpg",
+      "PackagePath": "staticwebassets\\img\\m16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abidi\\source\\repos\\FormsApp\\FormsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FormsApp.props",
+      "PackagePath": "build\\FormsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FormsApp.props",
+      "PackagePath": "buildMultiTargeting\\FormsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FormsApp.props",
+      "PackagePath": "buildTransitive\\FormsApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
